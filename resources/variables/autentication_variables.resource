@@ -1,0 +1,3 @@
+*** Variables ***
+${EMAIL}                eve.holt@reqres.in
+${PASSWORD}             cityslicka
